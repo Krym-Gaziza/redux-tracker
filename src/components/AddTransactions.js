@@ -1,3 +1,4 @@
+//AddTransac
 import React, { useState } from "react";
 
 export default function AddTransactions({id, addTransaction}) {

@@ -1,4 +1,7 @@
 import React from 'react';
+// index.js
+
+
 import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';

@@ -1,3 +1,4 @@
+//IncomeEx.js
 import React from "react";
 
 export default function IncomeExpense({ transactions }) {
